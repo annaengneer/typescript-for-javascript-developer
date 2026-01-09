@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/annaengneer/typescript-for-javascript-developer/issues"
   },
-  "homepage": "https://github.com/annaengneer/typescript-for-javascript-developer#readme"
+  "homepage": "https://github.com/annaengneer/typescript-for-javascript-developer#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
 }
